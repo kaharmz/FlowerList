@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Flower list</string>
+    <string name="creator_name">Creator name</string>
+    <string name="likes">Likes :</string>
+    <string name="like">Like</string>
+</resources>
